@@ -1,0 +1,6 @@
+git+https://github.com/worc3131/pyreact
+ipympl
+ipywidgets
+numpy
+pandas
+matplotlib
